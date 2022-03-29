@@ -60,12 +60,11 @@
             "adaptive": true
         },
         {
-            "name": "アドミン",
-            "author": "トス",
+            "name": "Admin",
+            "author": "Tos",
             "condition": "None",
             "resource": "Admin.png",
-            "bounce": true,
-            "adaptive": true
+            "bounce": true
         }
     ]
 }
