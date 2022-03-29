@@ -58,6 +58,16 @@
             "resource": "flag_adaptive.png",
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
+        },
+        {
+            "name": "アドミン",
+            "author": "トス",
+            "condition": "None",
+            "resource": "Admin.png",
+            "bounce": true,
+            "adaptive": true
         }
     ]
 }
+        
+
